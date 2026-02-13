@@ -1,0 +1,12 @@
+# Ignore install, log and build files
+install/
+log/
+build/
+
+**/install/
+**/log/
+**build/
+
+# Ignore generated docs
+*.dox
+*.wikidoc
